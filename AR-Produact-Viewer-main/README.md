@@ -4,13 +4,6 @@ This is a complete MERN-stack (MongoDB, Express, React, Node.js) application bui
 
 The project moves beyond a simple "CRUD" app to show a "spatial computing" engine that integrates 3D graphics and real-world hardware (a phone's camera and motion sensors) to create an impressive, interactive user experience.
 
-## 🚀 Live Demo
-
-**Frontend (Vercel):** [**https://web-ar-mern-project.vercel.app**](https://web-ar-mern-project.vercel.app)
-
-**Backend API (Render):** [**https://webar-mern-project.onrender.com/api/products**](https://webar-mern-project.onrender.com/api/products)
-
-https://github.com/user-attachments/assets/9cb9a65f-46d5-4c2e-8520-a4c8696e8e8f
 
 ---
 
