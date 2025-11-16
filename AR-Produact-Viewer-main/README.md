@@ -12,18 +12,6 @@ The project moves beyond a simple "CRUD" app to show a "spatial computing" engin
 
 https://github.com/user-attachments/assets/9cb9a65f-46d5-4c2e-8520-a4c8696e8e8f
 
-
-> **Note:** The backend is hosted on a free Render plan. It will "spin down" after 15 minutes of inactivity. The **first load will be slow** (it may take 30-60 seconds for the models to appear) as the server "wakes up." This is normal.
-
----
-
-## 📸 Screenshots
-
-| 3D Gallery (Mobile) | 3D Viewer (Desktop) | AR Mode (Mobile) |
-<img width="1355" height="632" alt="image" src="https://github.com/user-attachments/assets/3942b946-ee65-4169-b613-f474da78bd34" />
-
-<img width="623" height="490" alt="image" src="https://github.com/user-attachments/assets/8b791bd5-6a97-4d63-a202-31fc6acaa81b" />
-
 ---
 
 ## ✨ Core Features
